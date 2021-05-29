@@ -1,73 +1,76 @@
 # tictoc
 
-install python3
-intall numpy
 
-for run 
+## Installation
+
+install python3
+intall numpy - using pip ==> pip install numpy
+
+## run 
 python tictoc.py
 
-input example
 
-player 1 :sa
-Player 2 :fs
-- - - 
-- - - 
-- - - 
+### General Info
+input example and out put
+1. fist take the 1st player name
+2. second player name
+3. coll position space separator  Example : 1 3
 
-1 1
-[1, 1]
-[1, 1]
-X - - 
-- - - 
-- - - 
+  player 1 :sa
+  Player 2 :fs
+  - - - 
+  - - - 
+  - - - 
 
-9
-X - - 
-- - - 
-- - - 
+  1 1
+  [1, 1]
+  [1, 1]
+  X - - 
+  - - - 
+  - - - 
 
-1 2
-[1, 2]
-[1, 2]
-X O - 
-- - - 
-- - - 
+  X - - 
+  - - - 
+  - - - 
 
-9
-X O - 
-- - - 
-- - - 
+  1 2
+  [1, 2]
+  [1, 2]
+  X O - 
+  - - - 
+  - - - 
 
-2 2
-[2, 2]
-[2, 2]
-X O - 
-- X - 
-- - - 
+  X O - 
+  - - - 
+  - - - 
 
-9
-X O - 
-- X - 
-- - - 
+  2 2
+  [2, 2]
+  [2, 2]
+  X O - 
+  - X - 
+  - - - 
 
-1 3
-[1, 3]
-[1, 3]
-X O O 
-- X - 
-- - - 
+  X O - 
+  - X - 
+  - - - 
 
-9
-X O O 
-- X - 
-- - - 
+  1 3
+  [1, 3]
+  [1, 3]
+  X O O 
+  - X - 
+  - - - 
 
-3 3
-[3, 3]
-[3, 3]
-X O O 
-- X - 
-- - X 
+  X O O 
+  - X - 
+  - - - 
 
-9
-sa Won the game
+  3 3
+  [3, 3]
+  [3, 3]
+  X O O 
+  - X - 
+  - - X 
+
+  sa Won the game
