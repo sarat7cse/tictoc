@@ -3,7 +3,8 @@
 install python3
 intall numpy
 
-
+for run 
+python tictoc.py
 
 input example
 
